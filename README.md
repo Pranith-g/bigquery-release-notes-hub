@@ -37,36 +37,29 @@ Users can instantly search release notes, filter updates by category, and genera
 * 🔄 One-click Refresh
 
 ---
+## 📸 Screenshots
 
-# 📸 Screenshots
-
-## 🏠 Home Dashboard
+### 🏠 Home Dashboard
 
 Browse the latest BigQuery updates in a clean and responsive dashboard.
 
-```markdown
 ![Home Dashboard](images/home.png)
-```
 
 ---
 
-## 🔍 Feature Filter
+### 🔍 Feature Filter
 
 View only newly released BigQuery features.
 
-```markdown
-![Feature Filter](images/features.png)
-```
+![Feature Filter](images/feature.png)
 
 ---
 
-## 📢 Changes & Fixes
+### 📢 Changes & Fixes
 
 Explore updates, announcements, and bug fixes.
 
-```markdown
 ![Changes & Fixes](images/changes.png)
-```
 
 ---
 
